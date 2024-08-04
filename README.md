@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project contains a collection of browser automation scripts designed to streamline various tasks and gather valuable data directly from web pages. Currently, it includes a single script for Glassdoor that downloads a list of companies with good ratings in CSV format.
+This project is created to automate various small tasks and streamline data collection from different websites and social media applications. The current focus is on providing scripts that simplify routine tasks and gather useful information.
 
 ### Current Script
 
